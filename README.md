@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Spacding!
-- 👀 I’m interested in Sapce and Universe.
+- 👀 I’m interested in Space and Universe.
 - 🌱 I’m currently learning C and C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @Spacding on GitHub.
+- 💞️ I’m looking to collaborate on various fields.
+- 📫 How to reach me: @spacding on GitHub.
 
 <!---
 Spacding/Spacding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
